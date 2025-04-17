@@ -9,7 +9,8 @@
     "requirements": [
         "beautifulsoup4==4.7.1",
         "imapclient==2.3.1",
-        "mail-parser==3.9.3"
+        "mail-parser==3.9.3",
+        "Django"==5.1
     ],
     "version": "3.12.0"
 }
